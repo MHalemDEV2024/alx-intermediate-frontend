@@ -30,4 +30,3 @@ All files are inside the `0x00-semantic_html/` directory.
 - Create responsive, accessible forms.
 
 ## 📁 Directory
-
