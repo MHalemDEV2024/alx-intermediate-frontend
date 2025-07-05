@@ -1,3 +1,9 @@
+/* Define custom font sizes as CSS variables */
+:root {
+  --text-3xl: 1.875rem; /* 30px */
+  --text-3xl--line-height: 2.25rem; /* 36px */
+}
+
 .p-4 {
   padding: 1rem !important;
 }
@@ -8,4 +14,19 @@
 
 .gap-4 {
   gap: 1rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 1rem !important;
+}
+
+/* Force font-bold if utility isn't working */
+.font-bold {
+  font-weight: 700 !important;
+}
+
+/* Utility fix for text size */
+.text-3xl {
+  font-size: var(--text-3xl) !important;
+  line-height: var(--tw-leading, var(--text-3xl--line-height)) !important;
 }
