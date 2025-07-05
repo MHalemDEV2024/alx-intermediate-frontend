@@ -18,29 +18,29 @@ This repo demonstrates:
 
 ## 📁 Directory Structure
 
+```txt
 alx-intermediate-frontend/
 ├── 0x00-semantic_html/
-│ ├── 0-index.html
-│ ├── 1-index.html
-│ ├── 2-index.html
-│ ├── 3-index.html
-│ └── README.md
-│
+│   ├── 0-index.html
+│   ├── 1-index.html
+│   ├── 2-index.html
+│   ├── 3-index.html
+│   └── README.md
 │
 ├── 0x02-tailwind-css/
-│ ├── 1-index.html
-│ ├── 2-index.html
-│ ├── 3-nav_index.html
-│ ├── 4-flexbox_index.html
-│ ├── 5-gridflex_index.html
-│ ├── 6-imageGallery.html
-│ ├── README.md
-│ └── src/
-│ ├── input.css
-│ ├── output.css
-│ └── custom.css
+│   ├── 1-index.html
+│   ├── 2-index.html
+│   ├── 3-nav_index.html
+│   ├── 4-flexbox_index.html
+│   ├── 5-gridflex_index.html
+│   ├── 6-imageGallery.html
+│   ├── README.md
+│   └── src/
+│       ├── input.css
+│       ├── output.css
+│       └── custom.css
+```
 
----
 
 ## 🔹 Project 1: Semantic HTML
 
