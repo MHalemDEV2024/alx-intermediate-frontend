@@ -41,7 +41,8 @@ All files are inside the `0x02-tailwind-css/` directory.
 
 ## 📁 Directory Structure
 
-```
+---
+
 0x02-tailwind-css/
 ├── 1-index.html           # Responsive Grid Layout (basic layout and spacing fixes)
 ├── 2-index.html           # Complex layout with nested CSS grids
@@ -49,9 +50,10 @@ All files are inside the `0x02-tailwind-css/` directory.
 ├── 4-flexbox_index.html   # Responsive layout using Flexbox
 ├── 5-gridflex_index.html  # Combined Grid and Flexbox layout
 ├── 6-imageGallery.html    # Responsive image gallery using CSS Grid
-│ 
+│
 ├── src/
 │   ├── input.css          # Tailwind input file with @tailwind directives
 │   ├── output.css             # Compiled Tailwind CSS file
 │   └── custom.css         # Optional custom overrides (font, spacing, etc.)
-```
+
+---
