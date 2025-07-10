@@ -1,0 +1,7 @@
+# Step 1: Downloaded and installed Node.js from https://nodejs.org/en/download
+# Step 2: Verified installation with:
+node -v
+npm -v
+# Step 3: Installed Sass (Dart Sass)
+npm install sass
+git
