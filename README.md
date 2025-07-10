@@ -135,19 +135,6 @@ alx-intermediate-frontend/
 
 ---
 
-## 🛠️ Technologies Used
-
-- HTML5 & Semantic Markup  
-- Tailwind CSS v4  
-- Sass / SCSS  
-- CSS Grid & Flexbox  
-- ARIA (Accessibility)  
-- Node.js & NPM  
-- PostCSS  
-- Responsive Web Design Principles
-
----
-
 ## 🧰 Tools & Technologies Used
 
 | Tool / Tech            | Purpose / Usage                                                     |
