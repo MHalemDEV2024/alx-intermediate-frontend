@@ -1,4 +1,10 @@
 # ALX Intermediate Front-End Projects
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass/SCSS"/>
+</p>
 
 This repository contains structured projects aimed at developing strong foundational and intermediate front-end skills using **Semantic HTML**, **Accessibility**, **SEO**, **Tailwind CSS**, and **Sass/SCSS**. These projects are part of the **ALX Intermediate Front-End Curriculum**.
 
@@ -53,6 +59,7 @@ alx-intermediate-frontend/
 ---
 
 ## 🔹 Project 1: Semantic HTML  
+
 **Directory:** `0x00-semantic_html/`
 
 ### ✅ Tasks
@@ -74,6 +81,7 @@ alx-intermediate-frontend/
 ---
 
 ## 🔹 Project 2: Tailwind CSS Layouts  
+
 **Directory:** `0x02-tailwind-css/`
 
 ### ✅ Tasks
@@ -105,6 +113,7 @@ alx-intermediate-frontend/
 ---
 
 ## 🔹 Project 3: Sass & SCSS  
+
 **Directory:** `0x03-sass_scss/`
 
 ### ✅ Tasks

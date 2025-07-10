@@ -40,4 +40,3 @@ All files are inside the `0x02-tailwind-css/` directory.
 - Responsive Design Principles
 
 ## 📁 Directory Structure
-
