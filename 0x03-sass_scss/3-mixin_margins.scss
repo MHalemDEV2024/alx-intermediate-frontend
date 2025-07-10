@@ -1,0 +1,14 @@
+// Define a reusable mixin for horizontal margins
+@mixin set-margins($value) {
+  margin-left: $value;
+  margin-right: $value;
+}
+
+// Apply mixin to body and div
+body {
+  @include set-margins(10px);
+}
+
+div {
+  @include set-margins(15px);
+}
