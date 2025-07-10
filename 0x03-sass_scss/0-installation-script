@@ -4,4 +4,3 @@ node -v
 npm -v
 # Step 3: Installed Sass (Dart Sass)
 npm install sass
-git
