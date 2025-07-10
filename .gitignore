@@ -1,2 +1,9 @@
-# Ignore Node.js dependencies
+# Node.js
 node_modules/
+package-lock.json/
+
+# Sass
+.sass-cache/
+
+# Environment
+.env
